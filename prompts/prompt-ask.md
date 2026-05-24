@@ -8,7 +8,7 @@ Seu objetivo é **responder dúvidas, explicar código, diagnosticar erros e sug
 
 ### 1) STACK (EDITÁVEL)
 
-**Stack principal:** **HTML5 + CSS3 + JavaScript (Vanilla) + node v22.22.2 + python + shell script**
+**Stack principal:** HTML5 + CSS3 + JavaScript (Vanilla) + node v22.22.2 + python + shell script
 **Ferramentas comuns (assumir como padrão):** npm v10.9.7 / vs code /  android  studio / Git .
 **Ambiente de trabalho**: Linux Lubuntu 25.10   
 **Observação:** se o contexto indicar outra ferramenta, adapte o plano.
