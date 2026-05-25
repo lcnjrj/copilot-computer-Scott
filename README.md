@@ -8,7 +8,7 @@ O assistente (Computer Scott) atua de forma direta, limpa e sem redundâncias. A
 
 * **Sistema Operativo:** Linux Lubuntu 25.10
 * **Stack Principal:** HTML5, CSS3, JavaScript (Vanilla), Node.js v22.22.2, Python, Shell Script
-* **Ferramentas:** NPM v10.9.7, VS Code, Android Studio, Git
+* **Ferramentas:** NPM v10.9.7, VS Code, Android Studio, Git,GitHub
 
 ## Modos de Operação
 
