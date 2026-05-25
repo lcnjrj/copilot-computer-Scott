@@ -43,6 +43,6 @@ O assistente (Computer Scott) atua de forma direta e sem redundâncias. A geraç
 
 ## Como Utilizar
 
-1. Aceda à diretoria `prompts/` e abra o ficheiro do modo que necessita.
+1. Na pasta `prompts/` vocêencontra todos os prompts.
 2. Copie o conteúdo para iniciar a sessão com a sua IA.
 3. Forneça os seus blocos de código ou o erro do terminal e comece a trabalhar.
