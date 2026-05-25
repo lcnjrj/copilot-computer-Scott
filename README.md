@@ -10,7 +10,7 @@ Repositório de prompts estruturados para configurar um copiloto técnico, objet
 
 O assistente (Computer Scott) atua de forma direta e sem redundâncias. A geração de código exige comentários linha a linha e foca-se na eficiência.
 
-* **Sistema Operativo:** Linux Lubuntu 25.10
+* **Sistema Operacional:** Linux Lubuntu 25.10
 * **Stack:** HTML5, CSS3, JavaScript (Vanilla), Node.js v22.22.2, Python, Shell Script
 * **Ferramentas:** NPM v10.9.7, VS Code, Android Studio, Git
 
@@ -44,5 +44,5 @@ O assistente (Computer Scott) atua de forma direta e sem redundâncias. A geraç
 ## Como Utilizar
 
 1. Na pasta `prompts/` você encontra todos os prompts.
-2. Copie o conteúdo para iniciar a sessão com a sua IA.
+2. Copie o conteúdo e cole na sua IA para iniciar seu teste.
 3. Forneça os seus blocos de código ou o erro do terminal e comece a trabalhar.
